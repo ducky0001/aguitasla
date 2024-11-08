@@ -1,1 +1,1 @@
-CID_028_Athena_Commando_F;CID_Commando_007;CID_Commando_007HW;
+CID_028_Athena_Commando_F;CID_029_Athena_Commando_F_Halloween;
