@@ -43,6 +43,10 @@
     "favorite": [],
     "skip_ids": [
       "eid_megatoof",
+      "eid_joltmosaic_sync",
+      "eid_joltmosaic_owned",
+      "eid_joltmosaic_owned_follower",
+      "eid_joltmosaic_sync_follower",
       "eid_spongehollow",
       "eid_aprilbevie_sync",
       "eid_creamskull_intro",
