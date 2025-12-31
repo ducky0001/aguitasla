@@ -47,6 +47,8 @@
       "eid_kneelreedy",
       "eid_slidingstone_joiner",
       "eid_joltmosaic_owned",
+      "eid_yokequick_joiner",
+      "eid_yokequick_leader",
       "eid_aprilbevie_sync_follower",
       "eid_aprilbevie_sync",
       "eid_joltmosaic_owned_follower",
