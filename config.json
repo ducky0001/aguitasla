@@ -43,6 +43,7 @@
     "favorite": [],
     "skip_ids": [
       "eid_megatoof",
+      "eid_vouchtrig_follower",
       "eid_joltmosaic_sync",
       "eid_slidingstone",
       "eid_pacificsweater_joiner",
