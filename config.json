@@ -44,6 +44,7 @@
     "skip_ids": [
       "eid_megatoof",
       "eid_turnvortex_joiner",
+      "eid_loveaflare",
       "eid_turnvortex_leader",
       "eid_funkysounds",
       "eid_vouchtrig_follower",
