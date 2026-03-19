@@ -44,6 +44,13 @@
     "skip_ids": [
       "eid_megatoof",
       "eid_joygrid",
+      "eid_cozymechanic_intro",
+      "eid_iciclecane_intro",
+      "eid_prawntwine_intro",
+      "squibblysquid_intro",
+      "eid_steedshimmer_intro",
+      "eid_vilesting_intro",
+      "eid_briskreign_intro",
       "eid_foundkelphelm",
       "eid_foundkelp_sync_follower",
       "eid_foundkelp_sync",
