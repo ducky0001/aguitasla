@@ -43,6 +43,9 @@
     "favorite": [],
     "skip_ids": [
       "eid_megatoof",
+      "eid_joygrid",
+      "eid_foundkelphelm",
+      "eid_budblossom",
       "eid_turnvortex_joiner",
       "eid_turnvortex_leader",
       "eid_funkysounds",
