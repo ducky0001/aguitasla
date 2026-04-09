@@ -44,6 +44,8 @@
     "skip_ids": [
       "eid_megatoof",
       "eid_joygrid",
+      "eid_goodgravy_leader",
+      "eid_goodgravy_joiner",
       "eid_cozymechanic_intro",
       "eid_iciclecane_intro",
       "eid_flickledge",
