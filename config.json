@@ -44,6 +44,13 @@
     "skip_ids": [
       "eid_megatoof",
       "eid_joygrid",
+      "eid_rainbowraid_follower1",
+      "eid_rainbowraid_follower2",
+      "eid_rainbowraid_follower3",
+      "eid_alderoptic_joiner1",
+      "eid_alderoptic_old",
+      "eid_alderoptic_joiner2",
+      "eid_alderoptic_joiner3",
       "eid_goodgravy_leader",
       "eid_goodgravy_joiner",
       "eid_cozymechanic_intro",
