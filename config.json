@@ -1,49 +1,10 @@
 {
-  "EveryCosmetic": true,
-  "closeFortnite": true,
-  "Playlist": "playlist_pilgrimquickplay",
-  "WebSocketLogging": true,
-  "updateSkip": false,
-  "superhero": {
-    "chosen": {
-      "outfit": "Dynamo Dancer",
-      "color": "Red"
-    },
-    "options": {
-      "colors": {
-        "Cyan": "0F7FC99E7F7FC99E7F7FC99E7F7FC99E",
-        "Yellow": "7F7FC99E7F7FC9QUYNBFC99E7F7FC99E",
-        "White": "7F7FC99E7F7FC99E7F7FC99E7F7FC99E",
-        "Pink": "7F7FWWWWWF7FC99E7F7FC99E7F7FC99E",
-        "Red": "7F7FC9HSO37FC997AK7F1NAE7F7FC99E",
-        "Green": "000FC99E7F7FC9000F7FC99E7F7FC99E"
-      },
-      "outfits": {
-        "Hunter": "CID_855_Athena_Commando_M_Elastic",
-        "Hypersonic": "CID_856_Athena_Commando_M_Elastic_B",
-        "Blastoff": "CID_857_Athena_Commando_M_Elastic_C",
-        "Wonderlust": "CID_858_Athena_Commando_M_Elastic_D",
-        "The Mighty Volt": "CID_859_Athena_Commando_M_Elastic_E",
-        "Dynamo Dancer": "CID_860_Athena_Commando_F_Elastic",
-        "Backlash": "CID_861_Athena_Commando_F_Elastic_B",
-        "Firebrand": "CID_862_Athena_Commando_F_Elastic_C",
-        "Polarity": "CID_863_Athena_Commando_F_Elastic_D",
-        "Joltara": "CID_864_Athena_Commando_F_Elastic_E"
-      }
-    }
-  },
-  "InviteExploit": {
-    "enabled": true,
-    "users": [
-      "4735ce9132924caf8a5b17789b40f79c",
-      "4665a6d249054b128ee177dae640312c"
-    ]
-  },
   "saved": {
     "favorite": [],
     "skip_ids": [
       "eid_megatoof",
       "eid_bombatoonfollower",
+      "eid_generic_hifive_joinadhocsquad",
       "eid_joygrid",
       "eid_wordunity",
       "eid_biomehose",
